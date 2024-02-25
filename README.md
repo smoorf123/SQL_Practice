@@ -4,7 +4,7 @@ Above you will find a .ipynb file which is the standard format for Python Notebo
 
 # How to Complete Assignment
 
-1.) Download the .ipynb file
-2.) Edit the "cells" and add your coding solutions to the respective problems
-3.) Save it in the format SQL_Practice_YourName
+1.) Download the .ipynb file \
+2.) Edit the "cells" and add your coding solutions to the respective problems \
+3.) Save it in the format SQL_Practice_YourName \
 4.) Upload to Canvas
